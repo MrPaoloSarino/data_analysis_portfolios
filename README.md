@@ -14,35 +14,6 @@ I am a passionate **data analyst** with a strong background in statistics, progr
 - SQL, Python, R, and Excel
 - Business intelligence tools (Tableau, Power BI)
 
-## 📂 Projects
-Each project in this portfolio follows a structured approach, including problem definition, data collection, data cleaning, analysis, and conclusions.
-
-### 🏆 Featured Projects
-
-#### 1️⃣ **Customer Churn Prediction**
-- **Objective**: Predict customer churn using machine learning techniques.
-- **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Key Highlights**:
-  - Feature engineering & selection
-  - Logistic regression & random forests
-  - Model evaluation using ROC-AUC & confusion matrix
-
-#### 2️⃣ **Sales Data Visualization in Tableau**
-- **Objective**: Create interactive dashboards for sales trends and forecasting.
-- **Tech Stack**: Tableau, SQL, Excel
-- **Key Highlights**:
-  - Dynamic filters & interactive charts
-  - KPI analysis (revenue, customer segments)
-  - Sales forecasting using historical data
-
-#### 3️⃣ **Twitter Sentiment Analysis**
-- **Objective**: Analyze public sentiment on trending topics using NLP.
-- **Tech Stack**: Python, NLTK, Vader, Tweepy, WordCloud
-- **Key Highlights**:
-  - Data collection using Twitter API
-  - Sentiment classification (positive, neutral, negative)
-  - Word cloud & text analytics
-
 ## 🛠️ Tools & Technologies
 I work with a diverse set of tools to perform high-quality data analysis, including:
 
