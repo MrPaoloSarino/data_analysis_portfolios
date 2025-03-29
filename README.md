@@ -36,10 +36,8 @@ I work with a diverse set of tools to perform high-quality data analysis, includ
 ## 🤝 Let's Connect
 If you are interested in collaboration, feel free to reach out:
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](#)
-- 🐦 Twitter: [Your Twitter](#)
-- 📂 Portfolio Website: [Your Website](#)
+- 📧 Email: mrpaolosarino@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/psarino/
 
 ⭐ **If you find my work useful, please consider starring the repository!** ⭐
 
